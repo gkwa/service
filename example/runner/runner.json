@@ -3,7 +3,7 @@
 	"DisplayName": "Go Builder",
 	"Description": "Run the Go Builder",
 	
-	"Dir": "C:\\dev\\go\\src",
+	"Dir": "C:\\Users\\Administrator\\service\\example\\runner",
 	"Exec": "C:\\windows\\system32\\cmd.exe",
 	"Args": ["/C","C:\\dev\\go\\src\\all.bat"],
 	"Env": [
